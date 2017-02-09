@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 int numb;     //define the variable
-for(numb=1; numb<=10 numb++)
+for(numb=1; numb<=10 ; numb++)
 {
 cout << setw(4) << numb;     //dispaly the first column
 int cube = numb*numb*numb;               //calculate cube
